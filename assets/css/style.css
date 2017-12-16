@@ -1,0 +1,39 @@
+body {
+	font-family: 'Oswald', sans-serif;
+	font-size: 16pt;
+	box-sizing: border-box;
+}
+
+h1, h2, h3 {
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+}
+
+h1, h2 {
+	color: white;
+}
+
+h3 {
+	text-align: left;
+}
+
+p, {
+	text-align: center;
+	font-size: 14pt;
+	padding: 10px 10px 10px 10px;
+}
+
+#heading{
+	background-color: black;
+	padding: 10px;
+	margin-bottom: 20px;
+	color: firebrick;
+}
+
+td {
+	font-weight: normal;
+}
+
+.jumbotron {
+	background-color: white;
+}
